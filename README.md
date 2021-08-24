@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: 
 
 ### Connect with me:
-<img align="center"  width="40px" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"/>
+<img align="center"  width="40px" height="40px" color= "rgb(255, 255, 255)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"/>
 ✳▶https://www.upwork.com/freelancers/~01bc845856f354174e
 
 
