@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" href= "https://www.upwork.com/freelancers/~01bc845856f354174e"/>]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" a href="https://www.upwork.com/freelancers/~01bc845856f354174e"> />]
 
 
 <br />
