@@ -31,7 +31,6 @@
 <img align="left" alt="Maven" width="60px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Maven.png"/>
 <img align="left" alt="TestNG" width="60px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/TestNG.png" />
 <img align="left" alt="MochaChai" width="50px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Mochachai.png" />
-
 <br >
 <br >
 <ul>
@@ -39,9 +38,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<ul/>
-
-
 <br />
 
 ## Frameworks:
@@ -61,8 +57,8 @@
 <img align="center" alt="Selenium Framework " width="420px" height="145px" display="flex" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Selenium-Java%20Complete%20Framework.png" />
 
 <br />
- <br />
-  <br />
+<br />
+<br />
 
 ### Cypress Automation with <img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Cypress.png" /> 
 <p>  <img align="left" alt="JavaScript" width="50px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> <strong> JavaScript <p/>
@@ -70,9 +66,3 @@
 <p> <img align="left" alt="Jasmine" width="50px" height="25px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Jasmine.png" /> <strong> Jasmine <p/>
 <p> <img align="left" alt="Jasmine" width="50px" height="25px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Mochawesome%20report.png" /> <strong> Mochawesome Report <p/>
 <p> <strong>Allure Report<strong/> <img align="left" alt="Jasmine" width="50px" height="25px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Allure%20Report.png" /> <p/>
- 
- 
- 
- 
- 
-[jasmine]: https://jasmine.github.io/
