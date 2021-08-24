@@ -8,7 +8,7 @@
 - ⚡ Fun fact: 
 
 ### Connect with me:
-<img align="center"  width="40px" height="40px" color= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"/>
+<img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"/>
 ✳▶https://www.upwork.com/freelancers/~01bc845856f354174e
 
 
