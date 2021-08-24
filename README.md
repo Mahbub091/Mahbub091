@@ -54,7 +54,11 @@
 JavaScript <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <br/>
 Mocha-Chai <img align="left" alt="MochaChai" width="50px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Mochachai.png" />
+ <br/>
 Jasmine <img align="left" alt="Jasmine" width="50px" height="25px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Jasmine.png" />
-Mochawesome Report 
-Allure Report <li/>
+ <br/>
+Mochawesome Report
+ <br/>
+Allure Report
+ <br/>
 
