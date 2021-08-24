@@ -7,11 +7,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
-
 ### Connect with me:
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" href= "https://www.upwork.com/freelancers/~01bc845856f354174e"/>]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+
+
 <br />
 
 
@@ -39,4 +39,4 @@
 [webdevplaylist]: 
 [jsplaylist]: 
 [cssplaylist]: 
-[upwork]: "https://www.upwork.com/freelancers/~01bc845856f354174e"
+[upwork]: https://www.upwork.com/freelancers/~01bc845856f354174e
