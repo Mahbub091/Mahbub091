@@ -6,13 +6,12 @@
 <img src="https://camo.githubusercontent.com/21aadcba59e67081f84c016e8d1c4cd5bc5f176918d646dbecf1252468e524e6/68747470733a2f2f692e696d6775722e636f6d2f4f37756f5a69712e676966" data-canonical-src="https://i.imgur.com/O7uoZiq.gif" style="max-width: 100%;" width="40%">
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
-<a href="https://www.upwork.com/freelancers/~01bc845856f354174e"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"></a>
+<a href="https://www.upwork.com/freelancers/~01bc845856f354174e"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" alt="Upwork Profile"></a>
 
 
 <br />
