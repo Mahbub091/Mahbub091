@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 <a href="https://www.upwork.com/freelancers/~01bc845856f354174e"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" alt="Upwork Profile"></a>
