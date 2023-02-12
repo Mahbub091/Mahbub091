@@ -12,8 +12,8 @@
 
 ### Connect with me:
 <a href="https://www.upwork.com/freelancers/~01bc845856f354174e"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" alt="Upwork Profile"></a>
-
-
+<a href="https://twitter.com/tom_sqa/"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter Profile"></a>
+ <a href="https://www.linkedin.com/in/mahbubrahman091/"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Profile"></a>
 <br />
 
 ### Languages and Tools:
