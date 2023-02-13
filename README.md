@@ -12,53 +12,52 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
-<a href="https://www.upwork.com/freelancers/~01bc845856f354174e"><img align="center"  width="40px" height="40px" background= "9cf" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" alt="Upwork Profile"></a>
-<a href="https://twitter.com/tom_sqa/"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter Profile"></a>
- <a href="https://www.linkedin.com/in/mahbubrahman091/"><img align="center"  width="40px" height="40px" background= "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Profile"></a>
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bc845856f354174e)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tom_sqa/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubrahman091/)
 <br>
 
-### Languages and Tools:
+### My Current Stack:
 
-   ![HTML5](https://img.shields.io/badge/-HTML5-lightgrey)
-   ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
-   ![CSS](https://img.shields.io/badge/-CSS-lightgrey)
-   ![CSS3](https://img.shields.io/badge/-CSS3-lightgrey)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    <br/>
-   ![JAVA](https://img.shields.io/badge/-JAVA-red?style=plastic&logo=appveyor)
-   ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-red?style=plastic&logo=appveyor)
-   ![PYTHON](https://img.shields.io/badge/-PYTHON-red?style=plastic&logo=appveyor)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
    <br/>
-   ![Node_JS](https://img.shields.io/badge/-Node_JS-red?style=plastic&logo=appveyor)
-   ![SQL](https://img.shields.io/badge/-SQL-red?style=plastic&logo=appveyor)
-   ![MYSQL](https://img.shields.io/badge/-MYSQL-red?style=plastic&logo=appveyor)
-   ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-red?style=plastic&logo=appveyor)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     <br/>
-   ![SELENIUM](https://img.shields.io/badge/-SELENIUM-green?style=plastic&logo=appveyor)
-   ![CYPRESS](https://img.shields.io/badge/-CYPRESS-green?style=plastic&logo=appveyor)
-   ![WDIO](https://img.shields.io/badge/-WDIO-green?style=plastic&logo=appveyor)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+<img src="https://img.shields.io/badge/webdriverio-%23EA5906.svg?&style=for-the-badge&logo=webdriverio&logoColor=white" />
    ![RestAssured](https://img.shields.io/badge/-RestAssured-green?style=plastic&logo=appveyor)
-   ![Postman](https://img.shields.io/badge/-Postman-green?style=plastic&logo=appveyor)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
    ![Newman](https://img.shields.io/badge/-Newman-green?style=plastic&logo=appveyor)
    <br/>
-   ![Git](https://img.shields.io/badge/-Git-informational?style=plastic&logo=appveyor)
-   ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=plastic&logo=appveyor)
-   ![Gitlab](https://img.shields.io/badge/-Gitlab-informational?style=plastic&logo=appveyor)
-   ![BitBucket](https://img.shields.io/badge/-BitBucket-informational?style=plastic&logo=appveyor)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
    <br/>
-   ![Jira](https://img.shields.io/badge/-Jira-informational?style=plastic&logo=appveyor)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
    ![Asana](https://img.shields.io/badge/-Asana-informational?style=plastic&logo=appveyor)
-   ![Trllo](https://img.shields.io/badge/-Trllo-informational?style=plastic&logo=appveyor)
-   ![Confluence](https://img.shields.io/badge/-Confluence-informational?style=plastic&logo=appveyor)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
    <br/>
-   ![GitHub_Actions](https://img.shields.io/badge/-GitHub_Actions-informational?style=plastic&logo=appveyor)
-   ![Jenkins](https://img.shields.io/badge/-Jenkins-informational?style=plastic&logo=appveyor)
-   ![Azure_DevOps](https://img.shields.io/badge/-Azure_DevOps-informational?style=plastic&logo=appveyor)
+   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
    <br/>
-   ![Junit](https://img.shields.io/badge/-Junit-informational?style=plastic&logo=appveyor)
+![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
    ![Nunit](https://img.shields.io/badge/-Nunit-informational?style=plastic&logo=appveyor)
    ![TestNG](https://img.shields.io/badge/-TestNG-informational?style=plastic&logo=appveyor)
-   ![Mocha_chai](https://img.shields.io/badge/-Mocha_chai-informational?style=plastic&logo=appveyor)
-   ![Jasmine](https://img.shields.io/badge/-Jasmine-informational?style=plastic&logo=appveyor)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
    <br/>
    ![Surefire_report](https://img.shields.io/badge/-Surefire_report-informational?style=plastic&logo=appveyor)
    ![Extent_reporter](https://img.shields.io/badge/-Extent_reporter-informational?style=plastic&logo=appveyor)
@@ -66,38 +65,43 @@
    ![Allure](https://img.shields.io/badge/-Allure-informational?style=plastic&logo=appveyor)
    ![HTML_report](https://img.shields.io/badge/-HTML_report-informational?style=plastic&logo=appveyor)
    <br/>
-   ![BASH](https://img.shields.io/badge/-BASH-informational?style=plastic&logo=appveyor)
+   <br/>
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+   <br/>
    
-
+### OS and shells
+![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+   
 ## Frameworks:
 
-### Selenium Webdriver with <img align="left" alt="Selenium" width="26px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/371438.svg" />
-
-<p>Java <img align="left" alt="Java" width="60px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Java.png" /><strong><p/>
-<p>Maven <img align="left" alt="Maven" width="60px" height="25px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Maven.png" /><strong><p/>
-<p>TestNG <img align="left" alt="TestNG" width="60px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/TestNG.png" /><strong><p/>
-<p>Jenkins <img align="left" alt="Jenkins" width="60px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Jenkins.png" /> <strong><p/>
-<p>Git <img align="left" alt="Git" width="60px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><strong><p/>
-
 <br />
-
-### Framework overview
-
-<img align="center" alt="Selenium Framework " width="420px" height="145px" display="flex" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Selenium-Java%20Complete%20Framework.png" />
-
+<h2 align="center"> 👨‍💻 Selenium With Java:</h2>
 <br />
-<br />
-<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,selenium,maven,jenkins,&perline=8" />
+  </a>
+</p>
 
-### Cypress Automation with <img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Cypress.png" /> 
-<p>  <img align="left" alt="JavaScript" width="50px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> <strong> JavaScript <p/>
-<p> <img align="left" alt="MochaChai" width="50px" height="25px" src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Mochachai.png" /> <strong> Mocha-Chai <p/>
-<p> <img align="left" alt="Jasmine" width="50px" height="25px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Jasmine.png" /> <strong> Jasmine <p/>
-<p> <img align="left" alt="Jasmine" width="50px" height="25px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Mochawesome%20report.png" /> <strong> Mochawesome Report <p/>
-<p> <strong>Allure Report<strong/> <img align="left" alt="Jasmine" width="50px" height="25px"  src="https://raw.githubusercontent.com/Mahbub091/Mahbub091/master/Images/Allure%20Report.png" /> <p/>
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Mahbub091&show_icons=true&count_private=true&theme=tokyonight" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub091&theme=tokyonight" />
+</p>
+<details align="center">
+    <summary> <code>Click for More Stats</code> </summary>
+    <br>
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub091&layout=compact&theme=tokyonight" />
+ <br/> 
+    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Mahbub091&theme=onedark" />
+</details>
 
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-   
- ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub091&show_icons=true&theme=react)
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahbub091&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/> 
