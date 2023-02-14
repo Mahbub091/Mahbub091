@@ -17,80 +17,107 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubrahman091/)
 <br>
 
-### My Current Stack:
+## My Current Stack:
+
+Some Stuffs I'm good at:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   <br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-   <br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    <br/>
+ <br/>
+ 
+Expertise on Testing Tools:
+ <br/>
+ 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 <img src="https://img.shields.io/badge/webdriverio-%23EA5906.svg?&style=for-the-badge&logo=webdriverio&logoColor=white" />
-   ![RestAssured](https://img.shields.io/badge/-RestAssured-green?style=plastic&logo=appveyor)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-   ![Newman](https://img.shields.io/badge/-Newman-green?style=plastic&logo=appveyor)
-   <br/>
+![RestAssured](https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=RestAssured)
+<br/>
+
+Code Management Experience In:
+<br/>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-   <br/>
+<br/>
+Project Management Experience In:
+<br/>
+
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-   ![Asana](https://img.shields.io/badge/-Asana-informational?style=plastic&logo=appveyor)
+![Asana](https://img.shields.io/badge/-Asana-informational?style=for-the-badge&logo=Asana)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-   <br/>
-   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
+
+CI/CD & Container management Tech I've built in past:
+<br/>
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-   <br/>
+<br/>
+
+My regular used Testing Framework:
+<br/>
+
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
-   ![Nunit](https://img.shields.io/badge/-Nunit-informational?style=plastic&logo=appveyor)
-   ![TestNG](https://img.shields.io/badge/-TestNG-informational?style=plastic&logo=appveyor)
+![Nunit](https://img.shields.io/badge/-Nunit-informational?style=for-the-badge&logo=appveyor)
+![TestNG](https://img.shields.io/badge/-TestNG-informational?style=for-the-badge&logo=appveyor)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-   <br/>
-   ![Surefire_report](https://img.shields.io/badge/-Surefire_report-informational?style=plastic&logo=appveyor)
-   ![Extent_reporter](https://img.shields.io/badge/-Extent_reporter-informational?style=plastic&logo=appveyor)
-   ![Mochawesome](https://img.shields.io/badge/-Mochawesome-informational?style=plastic&logo=appveyor)
-   ![Allure](https://img.shields.io/badge/-Allure-informational?style=plastic&logo=appveyor)
-   ![HTML_report](https://img.shields.io/badge/-HTML_report-informational?style=plastic&logo=appveyor)
-   <br/>
-   <br/>
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-   <br/>
-   
-### OS and shells
+<br/>
+
+Reports Generation I'm very familiar of:
+<br/>
+
+![Surefire_report](https://img.shields.io/badge/-Surefire_report-informational?style=for-the-badge&logo=appveyor)
+![Extent_reporter](https://img.shields.io/badge/-Extent_reporter-informational?style=for-the-badge&logo=appveyor)
+![Mochawesome](https://img.shields.io/badge/-Mochawesome-informational?style=for-the-badge&logo=appveyor)
+![Allure](https://img.shields.io/badge/-Allure-informational?style=for-the-badge&logo=appveyor)
+![HTML_report](https://img.shields.io/badge/-HTML_report-informational?style=for-the-badge&logo=appveyor)
+<br/>
+
+Some IDE's I use day to day:
+<br/>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+<br/>
+ 
+👨‍💻 OS and shells:
+<br/>
+
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=white&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
    
 ## Frameworks:
 
 <br />
-<h2 align="center"> 👨‍💻 Selenium With Java:</h2>
+👨‍💻 Selenium With Java Framework:
 <br />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,selenium,maven,jenkins,&perline=8" />
-  </a>
-</p>
+<br />
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache-Maven](https://img.shields.io/badge/Apache-Maven-%23ED8B00.svg?style=for-the-badge&logo=Apache-Maven&logoColor=#C71A36)
+![Test-NG](https://img.shields.io/badge/Test-NG-%23ED8B00.svg?style=for-the-badge&logo=Test-NG&logoColor=appveyor)
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Mahbub091&show_icons=true&count_private=true&theme=tokyonight" />
