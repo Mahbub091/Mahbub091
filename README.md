@@ -72,8 +72,9 @@ My regular used Testing Framework:
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Nunit](https://img.shields.io/badge/-Nunit-informational?style=for-the-badge&logo=appveyor)
 ![TestNG](https://img.shields.io/badge/-TestNG-informational?style=for-the-badge&logo=appveyor)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![chai.js](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 <br/>
 
 Reports Generation I'm very familiar of:
@@ -137,6 +138,8 @@ Some IDE's I use day to day:
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" title="Mocha" alt="Mocha"/>&nbsp;
+   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" title="Chai" alt="Chai"/>&nbsp;
+    <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" title="Jasmine" alt="Jasmine"/>&nbsp;
 </div>
  <br />
 <div id="cypress_repo" align="center">
