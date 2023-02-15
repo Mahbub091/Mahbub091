@@ -104,30 +104,58 @@ Some IDE's I use day to day:
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=white&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-![](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
+![Shell-Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
    
 ## Frameworks:
-
+<!--Here I've Created My Selenium Framework Details -->
 <br />
 👨‍💻 Selenium With Java Framework:
 <br />
 <br />
+<details id="selenium-stack" align="center" margin-top="5px">
+<div align="center">
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" title="Selenium" alt="Selenium"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/Apache-Maven-%23ED8B00.svg?style=for-the-badge&logo=Apache-Maven&logoColor=#C71A36" title="Apache-Maven" alt="Apache-Maven"/>&nbsp;
+  <img src="https://img.shields.io/badge/Test-NG-%23ED8B00.svg?style=for-the-badge&logo=Test-NG&logoColor=Test-NG" title="Test-NG" alt="Test-NG"/>&nbsp;
+</div>
+ <br />
+<summary> <code>Checkout My Selenium(Java) Repo</code> </summary>
+<div id="selenium_repo" align="center">
+  <a href="https://github.com/Mahbub091/selenium_java_testng_automation">
+    <img width="30%" src="https://img.shields.io/badge/-Tom's_Selenium_Repo-critical?style=plastic&logo=Selenium" alt="Tom's Selenium Showcase Repo"/>
+  </a>
+</div>
+</details>
 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Apache-Maven](https://img.shields.io/badge/Apache-Maven-%23ED8B00.svg?style=for-the-badge&logo=Apache-Maven&logoColor=#C71A36)
-![Test-NG](https://img.shields.io/badge/Test-NG-%23ED8B00.svg?style=for-the-badge&logo=Test-NG&logoColor=appveyor)
+<!--Here I'll Create My Cypress Framework Details -->
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Mahbub091&show_icons=true&count_private=true&theme=tokyonight" />
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub091&theme=tokyonight" />
-</p>
+<details align="center">
+<summary> <code>Checkout My Cypress(JS) Repo</code> </summary>
+<div align="center">
+  <img src="https://img.shields.io/badge/-cypress-%43B02A?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress"/>&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" title="Mocha" alt="Mocha"/>&nbsp;
+</div>
+ <br />
+<div id="cypress_repo" align="center">
+  <a href="https://github.com/Mahbub091/cypress_e2e_showcase">
+    <img width="30%" src="https://img.shields.io/badge/-Tom's_Cypress_Repo-critical?style=plastic&logo=Cypress" alt="Tom's Cypress Showcase Repo"/>
+  </a>
+</div>
+</details>
+
+<br />
+<br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahbub091&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub091&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
     <br>
-    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub091&layout=compact&theme=tokyonight" />
- <br/> 
     <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Mahbub091&theme=onedark" />
 </details>
 
