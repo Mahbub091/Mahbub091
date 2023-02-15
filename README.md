@@ -120,7 +120,7 @@ Some IDE's I use day to day:
   <img src="https://img.shields.io/badge/Test-NG-%23ED8B00.svg?style=for-the-badge&logo=Test-NG&logoColor=Test-NG" title="Test-NG" alt="Test-NG"/>&nbsp;
 </div>
  <br />
-<summary> <code>Checkout My Selenium(Java) Repo</code> </summary>
+<summary> <code><b>Checkout My Selenium(Java) Repo<b/></code>  </summary>
 <div id="selenium_repo" align="center">
   <a href="https://github.com/Mahbub091/selenium_java_testng_automation">
     <img width="30%" src="https://img.shields.io/badge/-Tom's_Selenium_Repo-critical?style=plastic&logo=Selenium" alt="Tom's Selenium Showcase Repo"/>
@@ -131,7 +131,7 @@ Some IDE's I use day to day:
 <!--Here I'll Create My Cypress Framework Details -->
 
 <details align="center">
-<summary> <code>Checkout My Cypress(JS) Repo</code> </summary>
+<summary> <b><code>Checkout My Cypress(JS) Repo</code><b/> </summary>
 <div align="center">
   <img src="https://img.shields.io/badge/-cypress-%43B02A?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress"/>&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
