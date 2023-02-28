@@ -1,119 +1,53 @@
-### Hi there, This is Mahbub (TOM) 👋
-## I'm a Software Quality Assurance Engineer!!
-
 ![](https://komarev.com/ghpvc/?username=Mahbub091&style=plastic&color=red)
+### Hi there, This is Mahbub (TOM) 👋
 
-<img src="https://camo.githubusercontent.com/21aadcba59e67081f84c016e8d1c4cd5bc5f176918d646dbecf1252468e524e6/68747470733a2f2f692e696d6775722e636f6d2f4f37756f5a69712e676966" data-canonical-src="https://i.imgur.com/O7uoZiq.gif" style="max-width: 100%;" width="40%">
+## I'm a Software Quality Assurance Engineer (Automation)!!
+<img src="https://camo.githubusercontent.com/21aadcba59e67081f84c016e8d1c4cd5bc5f176918d646dbecf1252468e524e6/68747470733a2f2f692e696d6775722e636f6d2f4f37756f5a69712e676966" data-canonical-src="https://i.imgur.com/O7uoZiq.gif" style="max-width: 100%;" width="40%" align="right">
 
+✅ Result-oriented Software QA Engineer in Automation. Years of experience in the Software Quality Assurance (SQA) industry, including extensive knowledge of Automation testing.
 
-- 🌱 I’m currently learning.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+✔Top-level expert in Automation testing frameworks and solutions(Java, JS, SQL, RestAssured) for UI & API. 
 
-### Connect with me:
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bc845856f354174e)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tom_sqa/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubrahman091/)
+⬜My best achievement: Automated testing solutions have saved hundreds of person-hours of testing already. I have saved thousands of hours for my clients through my exceptional quality of service. 
+
+✳✳My Knowlege of Stacks:
+ 
+<p>➡ Applications: Web, Desktop, and Mobile Applications. 
+<p>➡ Automation: Cypress.io, Selenium WebDriver, Appium, Postman, RestAssured
+<p>➡ Performance testing: Apache JMeter, HP LoadRunner.
+<p>➡ SQL and Databases: MySQL, PostgreSQL.
+<p>➡ Bug tracker and Project Management systems: Atlassian JIRA, Asana, Trello
+<p>➡ Continuous integration tools: Jenkins, Maven, Azure. 
+<p>➡ Test Case Management tools: TestRail, Bugzilla, Xray.
+<p>➡ Repositories: Github, Gitlab, Bitbucket.
+<p>➡ IDEs: Visual Studio, IntelliJ Idea, Eclipse, Sublime Text.
+<p>➡ Operation Systems: All Windows versions, up-to-date knowledge in Linux and macOS.
+<p>➡ Cross-Browser Testing Platform: Sauce Labs, Browser Stack.
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+<a href="https://www.upwork.com/freelancers/~01bc845856f354174e" target="blank"><img align="center" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork" height="30" width="120" /></a>
+<a href="https://twitter.com/tom_sqa/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/mahbubrahman091//" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120" /></a>
 <br>
+<div>
 
 ## My Current Stack:
-
-Some Stuffs I'm good at:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- <br/>
  
-Expertise on Testing Tools:
- <br/>
+<!--Here I'll Explain About The Testing Tools I work day to day-->
+<div align="center" >
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" title="Selenium" img width="10%" alt="Selenium"/>&nbsp;
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" title="Cypress" img width="10%" alt="Cypress"/>&nbsp;
+  <img src="https://img.shields.io/badge/webdriverio-%23EA5906.svg?&style=for-the-badge&logo=webdriverio&logoColor=white" title="WebDriverIO" img width="10%" alt="WebDriverIO"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" img width="10%" alt="Postman"/>&nbsp;
+   <img src="https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=restAssured" title="RestAssured" img width="10%" alt="RestAssured"/>&nbsp;
+</div>
  
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-<img src="https://img.shields.io/badge/webdriverio-%23EA5906.svg?&style=for-the-badge&logo=webdriverio&logoColor=white" />
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RestAssured](https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=RestAssured)
-<br/>
-
-Code Management Experience In:
-<br/>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-<br/>
-Project Management Experience In:
-<br/>
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/-Asana-informational?style=for-the-badge&logo=Asana)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-<br/>
-
-CI/CD & Container management Tech I've built in past:
-<br/>
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-<br/>
-
-My regular used Testing Framework:
-<br/>
-
-![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
-![Nunit](https://img.shields.io/badge/-Nunit-informational?style=for-the-badge&logo=appveyor)
-![TestNG](https://img.shields.io/badge/-TestNG-informational?style=for-the-badge&logo=appveyor)
-![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-![chai.js](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
-<br/>
-
-Reports Generation I'm very familiar of:
-<br/>
-
-![Surefire_report](https://img.shields.io/badge/-Surefire_report-informational?style=for-the-badge&logo=appveyor)
-![Extent_reporter](https://img.shields.io/badge/-Extent_reporter-informational?style=for-the-badge&logo=appveyor)
-![Mochawesome](https://img.shields.io/badge/-Mochawesome-informational?style=for-the-badge&logo=appveyor)
-![Allure](https://img.shields.io/badge/-Allure-informational?style=for-the-badge&logo=appveyor)
-![HTML_report](https://img.shields.io/badge/-HTML_report-informational?style=for-the-badge&logo=appveyor)
-<br/>
-
-Some IDE's I use day to day:
-<br/>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-<br/>
- 
-👨‍💻 OS and shells:
-<br/>
-
-![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=white&label=)
-![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
-![Shell-Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
-   
-## Frameworks:
+## My Showcase Frameworks:
 <!--Here I've Created My Selenium Framework Details -->
-<br />
-👨‍💻 Selenium With Java Framework:
-<br />
-<br />
-<details id="selenium-stack" align="center" margin-top="5px">
+<details id="selenium-stack" align="center" margin-top="10px">
+ <summary> <code><b>Checkout My Selenium(Java) Repo<b/></code>  </summary>
+     <br>
 <div align="center">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" title="Selenium" alt="Selenium"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java"/>&nbsp;
@@ -121,10 +55,9 @@ Some IDE's I use day to day:
   <img src="https://img.shields.io/badge/Test-NG-%23ED8B00.svg?style=for-the-badge&logo=Test-NG&logoColor=Test-NG" title="Test-NG" alt="Test-NG"/>&nbsp;
 </div>
  <br />
-<summary> <code><b>Checkout My Selenium(Java) Repo<b/></code>  </summary>
 <div id="selenium_repo" align="center">
   <a href="https://github.com/Mahbub091/selenium_java_testng_automation">
-    <img width="30%" src="https://img.shields.io/badge/-Tom's_Selenium_Repo-critical?style=plastic&logo=Selenium" alt="Tom's Selenium Showcase Repo"/>
+    <img width="20%" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Tom's Selenium Showcase Repo"/>
   </a>
 </div>
 </details>
@@ -133,6 +66,7 @@ Some IDE's I use day to day:
 
 <details align="center">
 <summary> <b><code>Checkout My Cypress(JS) Repo</code><b/> </summary>
+  <br>
 <div align="center">
   <img src="https://img.shields.io/badge/-cypress-%43B02A?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress"/>&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
@@ -144,20 +78,79 @@ Some IDE's I use day to day:
  <br />
 <div id="cypress_repo" align="center">
   <a href="https://github.com/Mahbub091/cypress_e2e_showcase">
-    <img width="30%" src="https://img.shields.io/badge/-Tom's_Cypress_Repo-critical?style=plastic&logo=Cypress" alt="Tom's Cypress Showcase Repo"/>
+    <img width="20%" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Tom's Cypress Showcase Repo"/>
   </a>
 </div>
 </details>
+ 
+ <!--Here I'll Create My NewMan Framework Details -->
 
-<br />
-<br />
+<details align="center">
+<summary> <b><code>Checkout My Postman & Newman Repo</code><b/> </summary>
+  <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/-cypress-%43B02A?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress"/>&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" title="Mocha" alt="Mocha"/>&nbsp;
+   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" title="Chai" alt="Chai"/>&nbsp;
+    <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" title="Jasmine" alt="Jasmine"/>&nbsp;
+</div>
+ <br />
+<div id="postman_repo" align="center">
+  <a href="https://github.com/Mahbub091/NewMan_API_Execution">
+    <img width="20%" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Tom's Postman Showcase Repo"/>
+  </a>
+</div>
+</details>
+ 
+ <!--Here I'll Create My RestAssured Framework Details -->
+
+<details align="center">
+<summary> <b><code>Checkout My RestAssured(Java) Repo</code><b/> </summary>
+  <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/-cypress-%43B02A?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress"/>&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" title="Mocha" alt="Mocha"/>&nbsp;
+   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" title="Chai" alt="Chai"/>&nbsp;
+    <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" title="Jasmine" alt="Jasmine"/>&nbsp;
+</div>
+ <br />
+<div id="cypress_repo" align="center">
+  <a href="https://github.com/Mahbub091">
+    <img width="20%" src="https://img.shields.io/badge/-restassured-000000?style=for-the-badge&logo=restAssured" alt="Tom's RestAssured(Java) Showcase Repo"/>
+  </a>
+</div>
+ </details>
+ 
+  <!--Here I'll Create My WebDriverIO Framework Details -->
+<details align="center">
+<summary> <b><code>Checkout My WebDriverIO(JS) Repo</code><b/> </summary>
+ <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/-cypress-%43B02A?style=for-the-badge&logo=cypress&logoColor=white" title="Cypress" alt="Cypress"/>&nbsp;
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" title="Mocha" alt="Mocha"/>&nbsp;
+   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" title="Chai" alt="Chai"/>&nbsp;
+    <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" title="Jasmine" alt="Jasmine"/>&nbsp;
+</div>
+ <br />
+<div id="cypress_repo" align="center">
+  <a href="https://github.com/Mahbub091/cypress_e2e_showcase">
+    <img width="20%" src="https://img.shields.io/badge/webdriverio-%23EA5906.svg?&style=for-the-badge&logo=webdriverio&logoColor=white" alt="Tom's WebDriverIO Showcase Repo"/>
+  </a>
+</div>
+</details>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahbub091&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
     <br>
-    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Mahbub091&theme=onedark" />
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=Mahbub091&theme=onedark" />
 </details>
 
 <br/> 
