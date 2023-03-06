@@ -6,24 +6,6 @@
 
 ✅ Result-oriented Software QA Engineer in Automation. Years of experience in the Software Quality Assurance (SQA) industry, including extensive knowledge of Automation testing.
 
-✔Top-level expert in Automation testing frameworks and solutions(Java, JS, SQL, RestAssured) for UI & API. 
-
-⬜My best achievement: Automated testing solutions have saved hundreds of person-hours of testing already. I have saved thousands of hours for my clients through my exceptional quality of service. 
-
-✳✳My Knowlege of Stacks:
- 
-<p>➡ Applications: Web, Desktop, and Mobile Applications. 
-<p>➡ Automation: Cypress.io, Selenium WebDriver, Appium, Postman, RestAssured
-<p>➡ Performance testing: Apache JMeter, HP LoadRunner.
-<p>➡ SQL and Databases: MySQL, PostgreSQL.
-<p>➡ Bug tracker and Project Management systems: Atlassian JIRA, Asana, Trello
-<p>➡ Continuous integration tools: Jenkins, Maven, Azure. 
-<p>➡ Test Case Management tools: TestRail, Bugzilla, Xray.
-<p>➡ Repositories: Github, Gitlab, Bitbucket.
-<p>➡ IDEs: Visual Studio, IntelliJ Idea, Eclipse, Sublime Text.
-<p>➡ Operation Systems: All Windows versions, up-to-date knowledge in Linux and macOS.
-<p>➡ Cross-Browser Testing Platform: Sauce Labs, Browser Stack.
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a href="https://www.upwork.com/freelancers/~01bc845856f354174e" target="blank"><img align="center" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork" height="30" width="120" /></a>
@@ -145,7 +127,9 @@
 </div>
 </details>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahbub091&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mahbub091&theme=dark" alt="https://git.io/streak-stats" />
+</p>
 
 <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
